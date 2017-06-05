@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "aaf1bfbe-091e-41fd-85a6-fe7ab0d5ca69",
+  "alias": "OfuiReactDemoWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "aaf1bfbe-091e-41fd-85a6-fe7ab0d5ca69",
+    "group": { "default": "Under Development" },
+    "title": { "default": "OfuiReactDemo" },
+    "description": { "default": "OfuiReactDemo description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "OfuiReactDemo"
+    }
+  }]
+}

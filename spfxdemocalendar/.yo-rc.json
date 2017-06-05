@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "spfxdemocalendar",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "41fb3202-47b4-4ae0-9b73-cd0ed6fa7236"
+  }
+}

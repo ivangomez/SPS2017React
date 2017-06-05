@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "spfxdemocalendar-client-side-solution",
+    "id": "41fb3202-47b4-4ae0-9b73-cd0ed6fa7236",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfxdemocalendar.sppkg"
+  }
+}

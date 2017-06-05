@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactCalendarDemo/ReactCalendarDemoWebPart.js",
+      "manifest": "./src/webparts/reactCalendarDemo/ReactCalendarDemoWebPart.manifest.json",
+      "outputPath": "./dist/react-calendar-demo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactCalendarDemoStrings": "webparts/reactCalendarDemo/loc/{locale}.js"
+  }
+}

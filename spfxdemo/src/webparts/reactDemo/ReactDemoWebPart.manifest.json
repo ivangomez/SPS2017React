@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "5a47b08d-36dc-4bab-b8e2-7fdb2c2e6ebc",
+  "alias": "ReactDemoWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "5a47b08d-36dc-4bab-b8e2-7fdb2c2e6ebc",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ReactDemo" },
+    "description": { "default": "ReactDemo description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "ReactDemo"
+    }
+  }]
+}

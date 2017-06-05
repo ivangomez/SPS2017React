@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/ofuiReactDemo/OfuiReactDemoWebPart.js",
+      "manifest": "./src/webparts/ofuiReactDemo/OfuiReactDemoWebPart.manifest.json",
+      "outputPath": "./dist/ofui-react-demo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "ofuiReactDemoStrings": "webparts/ofuiReactDemo/loc/{locale}.js"
+  }
+}
